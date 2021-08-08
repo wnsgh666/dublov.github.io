@@ -21,7 +21,7 @@ title_separator          : ""
 subtitle                 : "FE"
 name                     : "dub"
 description              : "컴퓨터좋아해요?"
-url                      : "https://wnsgh666.github.io"
+url                      : "https://dublov.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "wnsgh666/dub.github.io"
 
